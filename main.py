@@ -19,12 +19,11 @@ print("Welche Operation möchtest du durchführen? (+, -, *, /)")
 rechenart = input()
 
 if rechenart == "+":
-   addieren(x,y)
+   addieren(x, y)
 elif rechenart == "-":
-    subtrahieren(x,y)
+    subtrahieren(x, y)
 elif rechenart == "*":
-   multiplizieren(x,y)
+   multiplizieren(x, y)
 elif rechenart == "/":
-   dividieren(x,y)
-
+   dividieren(x, y)
 
